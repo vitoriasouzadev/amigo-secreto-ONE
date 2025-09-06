@@ -63,3 +63,4 @@ function resetarJogo() {
   document.getElementById("listaAmigos").innerHTML = "";
   document.getElementById("resultado").innerHTML = "";
   document.getElementById("amigo").value = "";
+}
