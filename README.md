@@ -23,7 +23,7 @@ Aplicação simples para realizar sorteios de **amigo secreto**, onde o usuário
 - Adicionar nomes de amigos
 - Listar participantes
 - Sortear um nome aleatório
-- Resetar o jogo para começar novamente
+- Jogar Novamente
 
 - ## Como acessar o jogo
 
