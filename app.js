@@ -58,3 +58,8 @@ function exibirResultado(sorteio) {
     ul.appendChild(li);
   }
 }
+function resetarJogo() {
+  amigos = [];
+  document.getElementById("listaAmigos").innerHTML = "";
+  document.getElementById("resultado").innerHTML = "";
+  document.getElementById("amigo").value = "";
