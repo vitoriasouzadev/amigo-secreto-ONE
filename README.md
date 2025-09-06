@@ -25,6 +25,25 @@ Aplicação simples para realizar sorteios de **amigo secreto**, onde o usuário
 - Sortear um nome aleatório
 - Resetar o jogo para começar novamente
 
+- ## Como acessar o jogo
+
+Você pode jogar o Amigo Secreto diretamente pelo navegador, sem precisar instalar nada.
+Basta acessar o link abaixo:
+
+👉 [Clique aqui para jogar](https://vitoriasouzadev.github.io/amigo-secreto-ONE/)
+
+🎮 ##Passo a passo do jogo
+
+Digite o nome dos amigos na caixa de texto.
+
+Clique em Adicionar para inserir cada amigo na lista.
+
+Quando todos os nomes estiverem adicionados, clique em Sortear amigo.
+
+O sistema exibirá o resultado mostrando quem tirou quem.
+
+Para começar novamente, clique no botão Jogar Novamente.
+
 - ## Licença
 
 Este projeto foi desenvolvido apenas para fins de estudo no curso da Alura + ONE.
